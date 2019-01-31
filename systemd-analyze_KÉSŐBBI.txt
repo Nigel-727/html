@@ -1,0 +1,6 @@
+kata@kata-Vostro-5471:~$ sudo systemd-analyze 
+[sudo] password for kata:       
+Startup finished in 36.405s (kernel) + 1.328s (userspace) = 37.733s
+graphical.target reached after 1.324s in userspace
+kata@kata-Vostro-5471:~$ 
+
